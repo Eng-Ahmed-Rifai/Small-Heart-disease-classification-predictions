@@ -61,8 +61,7 @@ We welcome contributions and suggestions! Please open an issue or submit a pull 
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any questions or inquiries, please reach out to [Ahmed Mohamed Abdullatif Rifai](mailto:your-email@example.com).
+For any questions or inquiries, please reach out to [Ahmed Mohamed Abdullatif Rifai](mailto:eng.ahmed.rifai@gmail.com).
 
 ---
 
-Developed by Ahmed Mohamed Abdullatif Rifai - ID: 1851711008
